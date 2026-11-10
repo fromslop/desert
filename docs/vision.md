@@ -690,7 +690,7 @@ the start.
   terrain mesh, its collision and object placement. Collision is built once per chunk
   and is never rebuilt under the player. World state lives apart from the chunks.
   (These rules come from Sand Game's terrain failure.)
-- **Sand Game is the reference** (the [`archive`](https://github.com/hunterjsb/desert/tree/archive)
+- **Sand Game is the reference** (the [`archive`](https://github.com/fromslop/desert/tree/archive)
   branch) for feel, and the source of its sounds, models and shaders. Its code isn't
   reused.
 

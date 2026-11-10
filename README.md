@@ -6,7 +6,7 @@ Docs first: [docs/vision.md](docs/vision.md) says what the game is, each system 
 in `docs/prd/`, and [docs/README.md](docs/README.md) maps the full documentation set.
 [docs/skeleton-plan.md](docs/skeleton-plan.md) records the original build order.
 Sand Game, the prototype this replaces, lives on the
-[`archive`](https://github.com/hunterjsb/desert/tree/archive) branch.
+[`archive`](https://github.com/fromslop/desert/tree/archive) branch.
 
 ## Working on it
 
